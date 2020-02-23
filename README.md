@@ -31,6 +31,6 @@ Crawl COVID-19 data from Ministry of Health and Welfare Korea
 
 ### 라이선스
 - CC BY-SA 2.0 KR
-(C)2020 TeamPastel
+
 
 
