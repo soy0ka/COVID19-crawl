@@ -1,4 +1,4 @@
-# COVIP19-crawl
+# COVID19-crawl
 Crawl COVID-19 data from Ministry of Health and Welfare Korea
 - Made by [Jeongmin Park](https://github.com/Muzihuzi)
 - Languages
