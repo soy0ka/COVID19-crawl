@@ -4,8 +4,8 @@ Crawl COVID-19 data from Ministry of Health and Welfare Korea
 - Languages
 	* [한국어](#한국어)
 - OS
-	* [Ms Windows](#Windows 환경)
-	* [Linux](#Linux 환경)
+	* Windows 환경
+	* Linux 환경
 
 ## 한국어
 > 코로나바이러스 국내 감염자 웹크롤러
