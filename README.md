@@ -19,6 +19,6 @@ Crawl COVID-19 data from Ministry of Health and Welfare Korea
 1. 결과가(`read.txt`)에 저장됩니다 감염자,완치자,사망자 순으로 정렬됩니다.
 
 ### 라이선스
-- MIT 라이센스
+- CC BY-SA 2.0 KR
 
 
