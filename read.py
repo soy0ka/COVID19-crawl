@@ -3,13 +3,13 @@ lines = f.readlines()
 i = 0
 for line in lines:
     i = i +1
-    if i == 46:
+    if i == 50:
         print(line)
 
-    elif i == 47:
+    elif i == 51:
         print(line)
 
-    elif i == 48:
+    elif i == 52:
         print(line)
     
     f.close()
