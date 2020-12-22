@@ -1,15 +1,9 @@
-f = open("output.txt", 'r')
-lines = f.readlines()
+with open("output.txt") as f:
+    lines = f.readlines()
+
 i = 0
 for line in lines:
-    i = i +1
-    if i == 50:
-        print(line)
-
-    elif i == 51:
-        print(line)
-
-    elif i == 52:
+    i += 1
+    if 49 < i and i< 53:
         print(line)
     
-    f.close()
